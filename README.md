@@ -12,6 +12,9 @@ The user can create and store information for each tag such as it's name and
 logo. If a user moves an item they can pick their tag up and place it in 
 another place which would change the tag's geo-location. 
 
+## Documentation
+
+Please see the Documentation branch for further information on this project.
 
 ## How to build this project
 
